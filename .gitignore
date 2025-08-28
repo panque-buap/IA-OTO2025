@@ -1,3 +1,4 @@
 # Ignora todos los archivos de log
 *.log
 *.env
+*.gitignore
